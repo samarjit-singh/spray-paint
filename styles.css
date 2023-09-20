@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  margin-left: 40vw;
+  margin-top: 10vw;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  width: 40px;
+  background-color: #f0f0f0;
+}
+
+canvas {
+  border: 1px solid #000;
+  margin-left: 15vw;
+  width: 80vw;
+  height: 40vw;
+}
+
+
+button {
+  margin-left: 40vw;
+}
